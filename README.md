@@ -1,1 +1,1 @@
-# PS-IPCamera-SnapShot
+Take-Snapshots-from-IP-Cams
