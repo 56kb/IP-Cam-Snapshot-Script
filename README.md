@@ -1,1 +1,1 @@
-Take-Snapshots-from-IP-Cams
+IP-Cam-Snapshot-Script
